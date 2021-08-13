@@ -1,7 +1,6 @@
 #include <boost/lockfree/queue.hpp>
 #include <iostream>
 #include <thread>
-#include <chrono>
 
 #define QUEUE_SIZE 5
 
